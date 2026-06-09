@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at The university of Cambodia . In the furture, I want to be a web developer .
+I'm a student at The university of Cambodia . In the furture, I want to be a Full stake developer .
 
 
 ## 🌐 Socials:

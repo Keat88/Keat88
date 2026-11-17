@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at The university of Cambodia . In the furture, I want to be a Full stake developer .
+I'm a student at The university of Cambodia . In the furture, I want to be a Full stake developer and also I am  a passionate developer who enjoys building modern web applications and solving technical challenges. My main focus is backend development with Java and Spring Boot, while continuously improving my frontend skills with React.
 
 
 ## 🌐 Socials:
